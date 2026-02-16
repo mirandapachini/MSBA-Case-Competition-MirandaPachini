@@ -103,6 +103,13 @@ Monitoring includes:
 
 ---
 
+## Group Presentation
+A copy of the final team presentation is located in `group/presentation/`. 
+These slides summarize the team’s analysis, modeling decisions, and recommendations. 
+They are included in this repository for completeness and portfolio visibility.
+
+-----
+
 ## Author
 **Miranda Pachini**  
 MSBA Candidate, University of Louisville  
